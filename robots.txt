@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://oqureoyo.github.io/HtY/sitemap_index.txt.gz
+Sitemap: https://oqureoyo.github.io/NlL/sitemap_index.txt.gz
+Sitemap: https://oqureoyo.github.io/XbQ/sitemap_index.txt.gz
+Sitemap: https://oqureoyo.github.io/ZUW/sitemap_index.txt.gz
+Sitemap: https://oqureoyo.github.io/fvY/sitemap_index.txt.gz
+Sitemap: https://oqureoyo.github.io/sitemap/sitemap_index.txt.gz
